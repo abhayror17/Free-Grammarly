@@ -2,8 +2,7 @@
 
 A Chrome extension that automatically corrects and enhances your writing on any website using Google's Gemini AI. This extension works like Grammarly, providing real-time spelling, grammar, and clarity improvements as you type.
 
-https://www.loom.com/share/2c84d7e3c5c546d6b442286993d0c668
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/2c84d7e3c5c546d6b442286993d0c668" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 ## Features
 
 - 🚀 **Automatic Text Enhancement**: Fixes spelling and grammar mistakes while improving clarity and tone
